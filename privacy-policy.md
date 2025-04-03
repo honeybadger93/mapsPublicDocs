@@ -13,15 +13,15 @@ In case of app errors, we do not collect user-specific log data. However, Apple 
 
 3. In-App Purchases & Subscriptions
 
-Smart Maps offers optional in-app purchases and subscriptions. Payments are securely processed through Apple’s App Store, and we do not store payment details. Subscription information includes:
-	•	Title: Smart MAps Plus
+Smart Maps offers optional in-app purchases and subscriptions. Payments are securely processed through Apple’s App Store or Google Play, and we do not store payment details. Subscription information includes:
+	•	Title: Smart Maps Plus
 	•	Length: Monthly
-	•	Price: $3.99/month
+	•	Price: $3.99/month (though subject to change)
 	•	Terms of Auto-Renewal: Subscriptions automatically renew unless canceled at least 24 hours before the renewal date. Users can manage their subscriptions in Settings > Apple ID > Subscriptions.
 
 4. Account Creation and Deletion
 
-If your account creation is enabled, users will also have the ability to delete their account via the [Settings] page in the app. Deleting an account will result in the permanent removal of all associated user data.
+If your account creation is enabled, users will also have the ability to delete their account in the app. 
 
 5. Third-Party Services
 
@@ -35,4 +35,4 @@ We take appropriate security measures to prevent unauthorized access to any coll
 
 7. Changes to This Privacy Policy
 
-We may update this policy from time to time. Users will be notified via in-app notifications or app updates.
+We may update this policy from time to time. 
